@@ -1,4 +1,5 @@
-### Hi there 👋
+### ML/DL Modeler, Engineering
+I want to be a ML/DL Modeler
 
 <!--
 **LeeJeongHwi/LeeJeongHwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
