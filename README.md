@@ -2,6 +2,10 @@
 
 I want to be a AI Researcher
 
+### Tech Blog
+https://fruitnet-blog.vercel.app/
+
+### BOJ Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sowew54)](https://solved.ac/sowew54/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Leepic)](https://solved.ac/Leepic/)
 
@@ -14,6 +18,7 @@ I want to be a AI Researcher
 ### Skills
 * Python
 * Pytorch (Main), Tensorflow (Sub), Jax (Studying)
+* Pandas, Numpy, Scikit-learn, Scipy
 * Docker
 * Ubuntu (Linux)
 
