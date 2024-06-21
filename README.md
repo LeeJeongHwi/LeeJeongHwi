@@ -1,6 +1,6 @@
 ## Lee Jeong Hwi
 
-Hello! My name is Jeonghwi Lee. 
+Hello! My name is Jeonghwi Lee.  
 I majored in AI, and my primary research area is studying Transformers.
 
 ### Tech Blog
