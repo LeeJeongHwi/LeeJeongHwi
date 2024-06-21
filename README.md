@@ -1,6 +1,7 @@
 ## Lee Jeong Hwi
 
-I want to be a AI Researcher
+Hello! My name is Jeonghwi Lee. 
+I majored in AI, and my primary research area is studying Transformers.
 
 ### Tech Blog
 https://fruitnet-blog.vercel.app/
