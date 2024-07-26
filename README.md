@@ -1,7 +1,7 @@
 ## Lee Jeong Hwi
 
 Hello! My name is Jeonghwi Lee.  
-I majored in AI, and my primary research area is studying Transformers.
+I'm currently learning Transformer, NLP  
 
 ### Tech Blog
 https://fruitnet-blog.vercel.app/
@@ -15,6 +15,10 @@ https://fruitnet-blog.vercel.app/
   - Development of Exercise posture assistant System based on Mobile platform with Pose Estimation
 - M.E | Sangmyung University (Artificial Intelligence and Informatics, 2022-2024)
   - Interpretable Arrhythmia Type Classification Using Vision Transformer Model
+
+### Activity
+ - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
+ - Naver Boostcamp AI Tech 7th (2024. 08 ~ )
 
 ### Skills
 * Python
