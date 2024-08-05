@@ -4,7 +4,8 @@ Hello! My name is Jeonghwi Lee.
 I'm currently learning Transformer, NLP  
 
 ### Tech Blog
-https://fruitnet-blog.vercel.app/
+https://fruitnet-blog.vercel.app/  
+https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### BOJ Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sowew54)](https://solved.ac/sowew54/)
