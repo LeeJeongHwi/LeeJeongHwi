@@ -22,10 +22,10 @@ https://leejeonghwi.github.io/fruitnet.github.io/
  - Naver Boostcamp AI Tech 7th (2024. 08 ~ )
 
 ### Domestic Journal
-[Development of Data Visualized Web System for Virtual Power Forecasting based on Open Sources based Location Services using Deep Learning, Kiice, 2021.08](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10596370)
+ - [Development of Data Visualized Web System for Virtual Power Forecasting based on Open Sources based Location Services using Deep Learning, Kiice, 2021.08](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10596370)
 
 ### Patents
-[Method and apparatus for creating deep learning-based synthetic video contents, Registration No. 1025910820000 (2023.10.13)](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020220019764&applno=1020220019764&Gubun=1&sCurrPage=1&searchFg=N&expression=1020220019764&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
+ - [Method and apparatus for creating deep learning-based synthetic video contents, Registration No. 1025910820000 (2023.10.13)](http://kpat.kipris.or.kr/kpat/biblioa.do?method=biblioFrame&start=biblio&searchFg=N&KeyWord=1020220019764&applno=1020220019764&Gubun=1&sCurrPage=1&searchFg=N&expression=1020220019764&openPageId=View01&isMyConcern=N&isMyFolder=N&config=/main/sharePage_KR.jsp,%20className=jeus_jspwork._main._700_sharePage_5fKR_5fjsp,%20jspUri=%27/main/sharePage_KR.jsp)
 
 
 ### Skills
