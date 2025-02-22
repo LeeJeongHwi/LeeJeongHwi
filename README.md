@@ -1,10 +1,9 @@
 ## Lee Jeong Hwi
 
 Hello! My name is Jeonghwi Lee.  
-I'm currently learning Transformer, NLP  
+I'm interested in RAG, LLM Fine-Tuning, Speculative Decoding, vLLM, etc..  
 
 ### Tech Blog
-https://fruitnet-blog.vercel.app/  
 https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### BOJ Rank
@@ -19,14 +18,66 @@ https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### Activity
  - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
- - Naver Boostcamp AI Tech 7th (2024. 08 ~ )
+ - Naver Boostcamp AI Tech 7th (2024. 08. ~ 2025. 02.)
 
 ### Project
- - 의료분야에 최적화된 클라우드 환경 구축을 위한 PoC 과제 (2023. 06. ~ 2023. 08), 용역과제
- - 건강상태 모니터링을 위한 얼굴 표정과 보행동작 데이터를 이용한 딥러닝 기반 휴먼 데모그라픽 모니터링 시스템 개발 연구 (2021. 06. ~ 2024. 02.), 한국연구재단
- - 브이캐치 스포츠 (체감형 멀티미디어 스포츠) 지능형 콘텐츠 기술 개발 (2021. 04. ~ 2022. 03.), 정보통신기획평가원
- - 양방향 Smart ZEC 통합 네트워크 기술 개발 (2021. 01. ~ 2021. 12.), 한국에너지기술평가원
- - 딥러닝 기술을 이용한 실시간 전력수요예측시스템 기술 개발 (2020. 09. ~ 2021. 01.), 상명대학교산학협력단
+<table>
+    <tr>
+        <th>프로젝트명</th>
+        <th>기간</th>
+        <th>수행 기관</th>
+    </tr>
+    <tr>
+        <td>리뷰 기반 데일리 코스 생성 서비스</td>
+        <td>2025. 01. ~ 2025. 02.</td>
+        <td>Boostcamp AI Tech 7th</td>
+    </tr>
+    <tr>
+        <td>수능 문제 풀이 모델 개발</td>
+        <td>2024. 11.</td>
+        <td>Boostcamp AI Tech 7th</td>
+    </tr>
+    <tr>
+        <td>뉴스 기사 제목 주제 분류 모델 개발</td>
+        <td>2024. 10.</td>
+        <td>Boostcamp AI Tech 7th</td>
+    </tr>
+    <tr>
+        <td>ODQA 프로젝트</td>
+        <td>2024. 09. ~ 2024. 10.</td>
+        <td>Boostcamp AI Tech 7th</td>
+    </tr>
+    <tr>
+        <td>STS 프로젝트</td>
+        <td>2024. 09.</td>
+        <td>Boostcamp AI Tech 7th</td>
+    </tr>
+    <tr>
+        <td>의료분야에 최적화된 클라우드 환경 구축을 위한 PoC 과제</td>
+        <td>2023. 06. ~ 2023. 08.</td>
+        <td>용역과제</td>
+    </tr>
+    <tr>
+        <td>건강상태 모니터링을 위한 얼굴 표정과 보행동작 데이터를 이용한 딥러닝 기반 휴먼 데모그라픽 모니터링 시스템 개발 연구</td>
+        <td>2021. 06. ~ 2024. 02.</td>
+        <td>한국연구재단</td>
+    </tr>
+    <tr>
+        <td>브이캐치 스포츠 (체감형 멀티미디어 스포츠) 지능형 콘텐츠 기술 개발</td>
+        <td>2021. 04. ~ 2022. 03.</td>
+        <td>정보통신기획평가원</td>
+    </tr>
+    <tr>
+        <td>양방향 Smart ZEC 통합 네트워크 기술 개발</td>
+        <td>2021. 01. ~ 2021. 12.</td>
+        <td>한국에너지기술평가원</td>
+    </tr>
+    <tr>
+        <td>딥러닝 기술을 이용한 실시간 전력수요예측시스템 기술 개발</td>
+        <td>2020. 09. ~ 2021. 01.</td>
+        <td>상명대학교산학협력단</td>
+    </tr>
+</table>
 
 ### Domestic Journal
  - [Development of Data Visualized Web System for Virtual Power Forecasting based on Open Sources based Location Services using Deep Learning, Kiice, 2021.08](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10596370)
@@ -37,7 +88,7 @@ https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### Skills
 * Python
-* Pytorch (Main), Tensorflow (Sub), Jax (Studying)
+* Pytorch (Main), Tensorflow (Sub), LangChain(Studying)
 * Pandas, Numpy, Scikit-learn, Scipy
 * Docker
 * Ubuntu (Linux)
