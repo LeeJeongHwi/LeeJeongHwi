@@ -12,9 +12,9 @@ https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### Education
 - B.S | Sangmyung University (Computer Science, 2016-2022)
-  - Development of Exercise posture assistant System based on Mobile platform with Pose Estimation
+  - [Development of Exercise posture assistant System based on Mobile platform with Pose Estimation](https://github.com/ITs-smu-Team/its-core-android)
 - M.E | Sangmyung University (Artificial Intelligence and Informatics, 2022-2024)
-  - Interpretable Arrhythmia Type Classification Using Vision Transformer Model
+  - [Interpretable Arrhythmia Type Classification Using Vision Transformer Model](https://github.com/LeeJeongHwi/MI_Detection_Transformer)
 
 ### Activity
  - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
@@ -28,27 +28,27 @@ https://leejeonghwi.github.io/fruitnet.github.io/
         <th>수행 기관</th>
     </tr>
     <tr>
-        <td>리뷰 기반 데일리 코스 생성 서비스</td>
+        <td><a href="https://github.com/LeeJeongHwi/WITY">리뷰 기반 데일리 코스 생성 서비스</a></td>
         <td>2025. 01. ~ 2025. 02.</td>
         <td>Boostcamp AI Tech 7th</td>
     </tr>
     <tr>
-        <td>수능 문제 풀이 모델 개발</td>
+        <td><a href="https://github.com/LeeJeongHwi/level2-nlp-generationfornlp-nlp-10-lv3">수능 문제 풀이 모델 개발</a></td>
         <td>2024. 11.</td>
         <td>Boostcamp AI Tech 7th</td>
     </tr>
     <tr>
-        <td>뉴스 기사 제목 주제 분류 모델 개발</td>
+        <td><a href="https://github.com/LeeJeongHwi/level2-nlp-datacentric-nlp-06">뉴스 기사 제목 주제 분류 모델 개발</a></td>
         <td>2024. 10.</td>
         <td>Boostcamp AI Tech 7th</td>
     </tr>
     <tr>
-        <td>ODQA 프로젝트</td>
+        <td><a href="https://github.com/LeeJeongHwi/level2-mrc-nlp-06">ODQA 프로젝트</a></td>
         <td>2024. 09. ~ 2024. 10.</td>
         <td>Boostcamp AI Tech 7th</td>
     </tr>
     <tr>
-        <td>STS 프로젝트</td>
+        <td><a href="https://github.com/LeeJeongHwi/level1-semantictextsimilarity-nlp-06">STS 프로젝트</a></td>
         <td>2024. 09.</td>
         <td>Boostcamp AI Tech 7th</td>
     </tr>
@@ -73,7 +73,7 @@ https://leejeonghwi.github.io/fruitnet.github.io/
         <td>한국에너지기술평가원</td>
     </tr>
     <tr>
-        <td>딥러닝 기술을 이용한 실시간 전력수요예측시스템 기술 개발</td>
+        <td><a href="https://github.com/LeeJeongHwi/power_monitoring_system">딥러닝 기술을 이용한 실시간 전력수요예측시스템 기술 개발</a></td>
         <td>2020. 09. ~ 2021. 01.</td>
         <td>상명대학교산학협력단</td>
     </tr>
