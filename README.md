@@ -1,7 +1,7 @@
 ## Lee Jeong Hwi
 
 Hello! My name is Jeonghwi Lee.  
-I'm interested in RAG, LLM Fine-Tuning, Speculative Decoding, vLLM, etc..  
+I'm interested in AI Agent, RAG, LLM Fine-Tuning, Speculative Decoding, vLLM, etc..  
 
 ### Tech Blog
 https://leejeonghwi.github.io/fruitnet.github.io/
@@ -9,6 +9,9 @@ https://leejeonghwi.github.io/fruitnet.github.io/
 ### BOJ Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sowew54)](https://solved.ac/sowew54/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Leepic)](https://solved.ac/Leepic/)
+
+### Experience
+ - Laon People (ML Engineer, 2025. 04 ~ ing)
 
 ### Education
 - B.S | Sangmyung University (Computer Science, 2016-2022)
