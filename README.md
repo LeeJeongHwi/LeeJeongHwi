@@ -1,27 +1,31 @@
 ## Lee Jeong Hwi
 
 Hello! My name is Jeonghwi Lee.  
-I'm interested in AI Agent, RAG, LLM Fine-Tuning, Speculative Decoding, vLLM, etc..  
+I'm interested in AI Agent, RAG, LLM Fine-Tuning, vLLM, Evaluation
 
 ### Tech Blog
-https://leejeonghwi.github.io/fruitnet.github.io/
+[Notion Blog](https://fruitnet-blog.vercel.app/)
 
 ### BOJ Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sowew54)](https://solved.ac/sowew54/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Leepic)](https://solved.ac/Leepic/)
 
 ### Experience
- - Laon People (ML Engineer, 2025. 04 ~ ing)
+- Laon People (ML Engineer, 2025. 04 ~ ing), Intership
+  - Development AI Agent Chatbot (RAG Tool : HyDE, Query Decomposition, Hybrid Retriever)
+  - RAG Evaluation Pipeline (OpenEvals, RAGAS, MLFlow : LLM-as-Judge)
+  - LLM-OCR Prompting (unfinished)
 
 ### Education
-- B.S | Sangmyung University (Computer Science, 2016-2022)
-  - [Development of Exercise posture assistant System based on Mobile platform with Pose Estimation](https://github.com/ITs-smu-Team/its-core-android)
 - M.E | Sangmyung University (Artificial Intelligence and Informatics, 2022-2024)
   - [Interpretable Arrhythmia Type Classification Using Vision Transformer Model](https://github.com/LeeJeongHwi/MI_Detection_Transformer)
+- B.S | Sangmyung University (Computer Science, 2016-2022)
+  - [Development of Exercise posture assistant System based on Mobile platform with Pose Estimation](https://github.com/ITs-smu-Team/its-core-android)
 
 ### Activity
- - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
  - Naver Boostcamp AI Tech 7th (2024. 08. ~ 2025. 02.)
+ - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
+ 
 
 ### Project
 <table>
@@ -91,9 +95,9 @@ https://leejeonghwi.github.io/fruitnet.github.io/
 
 ### Skills
 * Python
-* Pytorch (Main), Tensorflow (Sub), LangChain(Studying)
+* Pytorch (Main), LangChain, LangGraph, MLFlow(Studying)
 * Pandas, Numpy, Scikit-learn, Scipy
-* Docker
+* Docker, Milvus
 * Ubuntu (Linux)
 
 <!--
