@@ -12,20 +12,24 @@ I'm interested in AI Agent, RAG, LLM Fine-Tuning, vLLM, Evaluation
 
 ### Experience
 - Laon People (ML Engineer, 2025. 04 ~ ing), Intership
-  - Development AI Agent Chatbot (RAG Tool : HyDE, Query Decomposition, Hybrid Retriever)
-  - RAG Evaluation Pipeline (OpenEvals, RAGAS, MLFlow : LLM-as-Judge)
-  - LLM-OCR Prompting (unfinished)
+  - HIFENN Platform Development
+    - Development AI Agent Chatbot (RAG Tool : HyDE, RAG-Fusion, Hybrid Retriever)
+    - RAG Evaluation Pipeline (OpenEvals, RAGAS, MLFlow : LLM-as-Judge)
+    - VLM Document Parsing (unfinished..)
+  - 'H' Company Assistant Chatbot
+    - VectorDB management
+    - Metadata preprocessing, text embedding
+    - Implement RAG-Fusion (llm-as-judge score: 50% -> 80%)
+    - 
+### Activity
+ - Naver Boostcamp AI Tech 7th (2024. 08. ~ 2025. 02.), NLP Track Completion
+ - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
 
 ### Education
 - M.E | Sangmyung University (Artificial Intelligence and Informatics, 2022-2024)
   - [Interpretable Arrhythmia Type Classification Using Vision Transformer Model](https://github.com/LeeJeongHwi/MI_Detection_Transformer)
 - B.S | Sangmyung University (Computer Science, 2016-2022)
   - [Development of Exercise posture assistant System based on Mobile platform with Pose Estimation](https://github.com/ITs-smu-Team/its-core-android)
-
-### Activity
- - Naver Boostcamp AI Tech 7th (2024. 08. ~ 2025. 02.)
- - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
- 
 
 ### Project
 <table>
@@ -95,11 +99,13 @@ I'm interested in AI Agent, RAG, LLM Fine-Tuning, vLLM, Evaluation
 
 ### Skills
 * Python
-* Pytorch (Main), LangChain, LangGraph, MLFlow(Studying)
+* Pytorch, LangChain, LangGraph
 * Pandas, Numpy, Scikit-learn, Scipy
 * Docker, Milvus
 * Ubuntu (Linux)
-
+### Studying
+* MLFlow, JAX, Multivector Embdding
+* FastAPI, PostgreSQL, MongoDB, Neo4j
 <!--
 **LeeJeongHwi/LeeJeongHwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
