@@ -16,11 +16,7 @@ I'm interested in AI Agent, RAG, LLM Fine-Tuning, vLLM, Evaluation
     - Development AI Agent Chatbot (RAG Tool : HyDE, RAG-Fusion, Hybrid Retriever)
     - RAG Evaluation Pipeline (OpenEvals, RAGAS, MLFlow : LLM-as-Judge)
     - VLM Document Parsing (unfinished..)
-  - 'H' Company Assistant Chatbot
-    - VectorDB management
-    - Metadata preprocessing, text embedding
-    - Implement RAG-Fusion (llm-as-judge score: 50% -> 80%)
-    - 
+    
 ### Activity
  - Naver Boostcamp AI Tech 7th (2024. 08. ~ 2025. 02.), NLP Track Completion
  - [Artificial Intelligence and Technology Lab in Sangmyung Univ](https://ai.smu.ac.kr) (2020 ~ 2024)
